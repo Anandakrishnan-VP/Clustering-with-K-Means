@@ -53,7 +53,7 @@ To segment mall customers into groups for targeted marketing strategies using un
 ![Silhouette Analysis](images/silhouette_analysis.png)
 
  Final Clusters (PCA Visualization)
-![Clusters with PCA](images/color_coding.pngcolor_coding.png)
+![Clusters with PCA](images/color_coding.png)
 
 ---
 
@@ -78,5 +78,6 @@ To segment mall customers into groups for targeted marketing strategies using un
 - scikit-learn
 
 ---
+
 
 
